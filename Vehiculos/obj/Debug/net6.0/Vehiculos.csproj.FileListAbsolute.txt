@@ -1,0 +1,15 @@
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\bin\Debug\net6.0\Vehiculos.exe
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\bin\Debug\net6.0\Vehiculos.deps.json
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\bin\Debug\net6.0\Vehiculos.runtimeconfig.json
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\bin\Debug\net6.0\Vehiculos.dll
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\bin\Debug\net6.0\Vehiculos.pdb
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.AssemblyInfo.cs
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.dll
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\refint\Vehiculos.dll
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.pdb
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\Vehiculos.genruntimeconfig.cache
+C:\Users\leand\source\repos\Vehiculos\Vehiculos\obj\Debug\net6.0\ref\Vehiculos.dll
